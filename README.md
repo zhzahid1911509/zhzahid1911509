@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/zhzahid1911509](https://github.com/zhzahid1911509)
+- 👨‍💻 All of my projects are available at [https://github.com/zhzahid1911509](https://github.com/zhzahid1911509?tab=repositories)
 
 - 📫 How to reach me **zahid.hasan.nsu2019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17GTWyzFZg6_flx_0j8bIMRssHvojb6DZ/view?usp=sharing](https://drive.google.com/file/d/17GTWyzFZg6_flx_0j8bIMRssHvojb6DZ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17GTWyzFZg6_flx_0j8bIMRssHvojb6DZ/view?usp=sharing](https://drive.google.com/file/d/1-l0SMl_MJd0sFPfSyG-vozALRKYGaZqz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
