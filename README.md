@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhzahid1911509&label=Profile%20views&color=0e75b6&style=flat" alt="zhzahid1911509" /> </p>
 
-[![trophy](https://zhzahid1911509.vercel.app/?username=zhzahid1911509)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working on [MONETHAKBE — Family Digital Vault & Record Manager](https://github.com/zhzahid1911509/asset-management-site-monethakbe)
 
 - 🌱 I’m currently learning **Node.js, AWS, cloud-native technologies, and AI-driven systems**
